@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi, I'm Afjal Hossain Mahin 👋</h1>
+<h1 align="center">Hi, I'm MD Afjal Hossain 👋</h1>
 <h3 align="center">A Passionate MERN Stack Web Developer from Bangladesh 🇧🇩</h3>
 
 ---
