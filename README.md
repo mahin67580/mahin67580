@@ -63,7 +63,7 @@
 <p align="center">
   <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahin67580&theme=github-dark-blue" width="48%" />
-</p>
+
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=mahin67580&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="mahin67580 GitHub Stats" />
     </a>
