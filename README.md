@@ -12,13 +12,26 @@
 
 <hr>
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on full-stack web applications  
-- 🌱 Always learning new tools and technologies  
-- 💬 Ask me about **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**  
-- 📫 How to reach me: [afjalhossainmahin0@gmail.com](mailto:afjalhossainmahin0@gmail.com)
-- 🌐 Portfolio: _Coming Soon_
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/afjalhossain-linkdin/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm MD Afjal+Hossain, MERN Stack Web Developer..
+  <br>
+  <br>
+  🔬 I'm currently Working as a junior front-end web devolopper at <a href="https://www.facebook.com/dotitbd10">DOT-IT ltd</a>
+  <br>
+  🎓 I graduated from Bangladesh Army International University of Science and Technology <a href="https://baiust.ac.bd/">(BAIUST)</a> , Department of Computer science and Engineering (Bsc)
+  <br>
+  🎓 I graduated from Complete Web Development Bootcamp by Programming Hero
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to AI integration on  E-Commerce Website uing MERN
+  <br>
+  📫 How to reach me: <a href="mailto:afjalhossainmahin0@gmail.com">afjalhossainmahin0@gmail.com</a>
+</p>
 
 <hr>
 
