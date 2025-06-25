@@ -9,7 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hello,+There!+👋;This+is+Afjal+Hossain....;A+Passionate+MERN+Stack+Web+Developer;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </h1>
-
 <hr>
 <h2 align="center">👤 About Me</h2>
 <h5 align="center">
