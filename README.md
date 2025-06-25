@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/mahin67580/mahin67580/blob/main/gitbanner.jpg"/>
+  <img src="https://github.com/mahin67580/mahin67580/blob/main/gitbannerm.jpg"/>
 </p>
 
 <!-- Intro -->
