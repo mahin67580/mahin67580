@@ -14,8 +14,7 @@
 - 🔭 I’m currently working on full-stack web applications  
 - 🌱 Always learning new tools and technologies  
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, and **Tailwind CSS**  
-- 📫 How to reach me: [afjalhossainmahin0@gmail.com](mailto:afjalhossainmahin0@gmail.com
-)  
+- 📫 How to reach me: [afjalhossainmahin0@gmail.com](mailto:afjalhossainmahin0@gmail.com)
 - 🌐 Portfolio: _Coming Soon_
 
 ---
