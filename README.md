@@ -13,18 +13,18 @@
 <hr>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/afjalhossain-linkdin/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/afjalhossain-linkdin/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm MD Afjal+Hossain, MERN Stack Web Developer..
+  Hi, I'm MD Afjal Hossain, MERN Stack Web Developer
   <br>
   <br>
   🔬 I'm currently Working as a junior front-end web devolopper at <a href="https://www.facebook.com/dotitbd10">DOT-IT ltd</a>
   <br>
   🎓 I graduated from Bangladesh Army International University of Science and Technology <a href="https://baiust.ac.bd/">(BAIUST)</a> , Department of Computer science and Engineering (Bsc)
   <br>
-  🎓 I graduated from Complete Web Development Bootcamp by Programming Hero
+  🎓 I graduated from Complete Web Development Bootcamp by <a href="https://www.facebook.com/programmingherowebcourse">Programming Hero</a>
   <br>
   💻 I love writing code and learn anythings about it
   <br>
