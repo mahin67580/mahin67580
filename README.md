@@ -6,9 +6,10 @@
 <!-- Intro -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Afjal+Hossain....;A+Passionate+MERN+Stac+Web+Developer+from+Bangladesh+🇧🇩;Nice+to+meet+you!&center=true&size=40">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hello,+There!+👋;This+is+Afjal+Hossain....;A+Passionate+MERN+Stack+Web+Developer+from+Bangladesh+🇧🇩;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </h1>
+
 ---
 
 ### 👨‍💻 About Me
