@@ -11,7 +11,7 @@
 </h1>
 
 <hr>
-
+<h2 align="center">⚡ About Me ⚡</h2>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/afjalhossain-linkdin/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
  <code><a href="mailto:afjalhossainmahin0@gmail.com" title="Email Me"><img width="22" src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/email.svg"> Email</a></code>
