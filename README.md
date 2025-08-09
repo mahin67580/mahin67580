@@ -31,6 +31,8 @@
   📚 I’m currently learning how to do AI integration on E-Commerce Website using MERN
   <br>
   📫 How to reach me: <a href="mailto:afjalhossainmahin0@gmail.com">afjalhossainmahin0@gmail.com</a>
+  <br>
+  📱 WhatsApp: <a href="https://wa.me/8801875027270">+880 1875-027270</a>
 </p>
 
 <hr>
