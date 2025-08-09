@@ -28,7 +28,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to do AI integration on E-Commerce Website using MERN
+  📚 I’m currently learning how to do AI integration on E-Commerce Website using MERN as well as exploring Next.js and typescript.
   <br>
   📫 How to reach me: <a href="mailto:afjalhossainmahin0@gmail.com">afjalhossainmahin0@gmail.com</a>
   <br>
