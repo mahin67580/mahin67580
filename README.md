@@ -13,7 +13,12 @@
 <h2 align="center">👤 About Me</h2>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/afjal-hossain-webdev/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
- <code><a href="mailto:afjalhossainmahin0@gmail.com" title="Email Me"><img width="22" src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/email.svg"> Email</a></code>
+  <code>
+  <a href="https://wa.me/8801875027270" title="WhatsApp Chat">
+    <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"> WhatsApp
+  </a>
+</code>
+
 
 </h5>
 <br>
