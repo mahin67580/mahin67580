@@ -12,8 +12,11 @@
 <hr>
 <h2 align="center">👤 About Me</h2>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/afjalhossain-linkdin/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/afjal-hossain-webdev/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
  <code><a href="mailto:afjalhossainmahin0@gmail.com" title="Email Me"><img width="22" src="https://raw.githubusercontent.com/Templarian/MaterialDesign/master/svg/email.svg"> Email</a></code>
+ <code> <a href="https://wa.me/8801875027270">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a></code>
 </h5>
 <br>
 <p align="center">
