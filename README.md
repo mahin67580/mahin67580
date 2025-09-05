@@ -22,7 +22,7 @@
  👨‍💻 Hi, I'm MD Afjal Hossain, a MERN Stack Web Developer
   <br>
   <br>
-  🔬 I'm currently Working as a junior front-end web devolopper at <a href="https://www.facebook.com/dotitbd10">DOT-IT ltd</a>
+  🔬 I have worked contractually as a Junior Front-End Web Developer at <a href="https://www.facebook.com/dotitbd10">DOT-IT ltd</a>
   <br>
   🎓 I graduated from Bangladesh Army International University of Science and Technology <a href="https://baiust.ac.bd/">(BAIUST)</a> , Department of Computer science and Engineering (Bsc)
   <br>
