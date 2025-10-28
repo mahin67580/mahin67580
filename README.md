@@ -32,7 +32,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning AI integration and mastering <bold>Typescript, Mongoose, Redux, Next.js, GraphQL, PostgreSQL, AWS, Docker, Unit Testing</bold>
+  📚 I’m currently learning AI integration and mastering Typescript, Mongoose, Redux, Next.js, GraphQL, PostgreSQL, AWS, Docker, Unit Testing
   <br>
   📫 How to reach me: <a href="mailto:afjalhossainmahin0@gmail.com">afjalhossainmahin0@gmail.com</a>
   <br>
