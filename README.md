@@ -22,7 +22,10 @@
  👨‍💻 Hi, I'm MD Afjal Hossain, a MERN Stack Web Developer
   <br>
   <br>
-  🔬 I have worked contractually as a Junior Front-End Web Developer at <a href="https://www.facebook.com/dotitbd10">DOT-IT ltd</a>
+  🔬 I have worked contractually as a Software engineer at <a href="https://www.facebook.com/dotitbd10">DOT-IT ltd</a>
+  <br>
+  <br>
+  🔬 I have worked  as a Front-End Web Developer at <a href="https://www.facebook.com/share/1AjZDwhbrQ/">Softvence</a>
   <br>
   🎓 I graduated from Bangladesh Army International University of Science and Technology <a href="https://baiust.ac.bd/">(BAIUST)</a> , Department of Computer science and Engineering (Bsc)
   <br>
@@ -30,7 +33,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to do AI integration on E-Commerce Website using MERN as well as exploring Next.js and Typescript.
+  📚 I’m currently learning AI integration and mastering Typescript, Mongoose, Redux, Next.js, GraphQL, PostgreSQL, AWS, Docker, Unit Testing
   <br>
   📫 How to reach me: <a href="mailto:afjalhossainmahin0@gmail.com">afjalhossainmahin0@gmail.com</a>
   <br>
