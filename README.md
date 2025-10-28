@@ -24,7 +24,6 @@
   <br>
   🔬 I have worked contractually as a Software engineer at <a href="https://www.facebook.com/dotitbd10">DOT-IT ltd</a>
   <br>
-  <br>
   🔬 I have worked  as a Front-End Web Developer at <a href="https://www.facebook.com/share/1AjZDwhbrQ/">Softvence</a>
   <br>
   🎓 I graduated from Bangladesh Army International University of Science and Technology <a href="https://baiust.ac.bd/">(BAIUST)</a> , Department of Computer science and Engineering (Bsc)
